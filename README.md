@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **wijearts77@gmail.com**
 
-- ⚡ Fun fact **In rugby, you chase the ball. In IT, you chase bugs!**
+- ⚡ Fun fact **In rugby, you chase the ball. In coding, you chase bugs!**
 
 
 <h3 align="left">Connect with me:</h3>
