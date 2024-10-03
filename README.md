@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thejan Wijesundara</h1>
-<h3 align="left">A software developer from Sri-lanka</h3>
+<h3 align="left">A software developer from Srilanka</h3>
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
