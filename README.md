@@ -4,15 +4,9 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thjean77&label=Profile%20views&color=0e75b6&style=flat" alt="thjean77" /> </p>
-- 🔭 I’m currently working on My side projects
-
-- 🌱 I’m currently learning **python and cloud computing**
-
 - 👯 I’m looking to collaborate on **Interesting open source projects**
 
-- 💬 Ask me about **Java ,React**
-
-- 📫 How to reach me **wijearts77@gmail.com**
+  - 📫 How to reach me **wijearts77@gmail.com**
 
 - ⚡ Fun fact **In rugby, you chase the ball. In coding, you chase bugs!**
 
