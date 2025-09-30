@@ -6,8 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thjean77&label=Profile%20views&color=0e75b6&style=flat" alt="thjean77" /> </p>
 - 👯 I’m looking to collaborate on **Interesting open source projects**
 
-  - 📫 How to reach me **wijearts77@gmail.com**
-
 - ⚡ Fun fact **In rugby, you chase the ball. In coding, you chase bugs!**
 
 
