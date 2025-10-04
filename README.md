@@ -4,9 +4,9 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thjean77&label=Profile%20views&color=0e75b6&style=flat" alt="thjean77" /> </p>
--  I’m looking to collaborate on **Interesting open source projects**
+-  I’m looking to collaborate on Interesting open source projects
 
-- ⚡ Fun fact **In rugby, you chase the ball. In coding, you chase bugs!**
+- ⚡ Fun fact In rugby, you chase the ball. In coding, you chase bugs!
 
 
 <h3 align="left">Connect with me:</h3>
