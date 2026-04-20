@@ -50,8 +50,9 @@
 ### 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/thejan77" alt="GitHub Contributions Chart" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thejan77&theme=github" />
 </p>
+
 
 
 
