@@ -41,9 +41,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=thjean77&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thjean77&layout=compact&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=thjean77&theme=tokyonight" />
 </p>
+
 
 ---
 
