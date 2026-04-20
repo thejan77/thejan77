@@ -50,7 +50,7 @@
 ### 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/thjean77" alt="GitHub Contributions Chart" />
+  <img src="https://ghchart.rshah.org/thejan77" alt="GitHub Contributions Chart" />
 </p>
 
 
