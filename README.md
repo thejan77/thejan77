@@ -50,8 +50,9 @@
 ### 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thejan77&theme=github" />
+  <img src="https://ghchart.rshah.org/thjean77" alt="GitHub Contributions Chart" />
 </p>
+
 
 
 <p align="center">
