@@ -41,9 +41,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=thejan77&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=thejan77&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejan77&layout=compact&theme=tokyonight" />
 </p>
-
 
 ---
 
