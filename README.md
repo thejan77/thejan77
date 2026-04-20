@@ -47,10 +47,10 @@
 
 ---
 
-### 🐍 Contribution Graph
+### 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/thjean77/thejan77/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thejan77&theme=github" />
 </p>
 
 
