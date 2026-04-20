@@ -47,6 +47,13 @@
 
 ---
 
+### 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://github.com/thjean77/thejan77/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png">
 </p>
