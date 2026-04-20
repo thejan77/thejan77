@@ -38,20 +38,9 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=thejan77&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejan77&layout=compact&theme=tokyonight" />
-</p>
 
----
 
-### 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thejan77&theme=github" />
-</p>
 
 
 
